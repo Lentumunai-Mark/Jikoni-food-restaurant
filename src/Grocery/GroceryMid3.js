@@ -14,7 +14,8 @@ const GroceryMid3 = () => {
   const fetchData = async () => {
     const data = await fetch(
       //  "https://www.swiggy.com/api/instamart/home?pageNo=3&layoutId=3173&storeId=1383574&clientId=INSTAMART-APP"
-      "https://corsproxy.org/?https%3A%2F%2Fwww.swiggy.com%2Fapi%2Finstamart%2Fhome%3FpageNo%3D2%26layoutId%3D3173%26storeId%3D1383574%26clientId%3DINSTAMART-APP"
+      // "https://corsproxy.org/?https%3A%2F%2Fwww.swiggy.com%2Fapi%2Finstamart%2Fhome%3FpageNo%3D2%26layoutId%3D3173%26storeId%3D1383574%26clientId%3DINSTAMART-APP"
+      "https://corsproxy.io/?https://www.swiggy.com/instamart?srsltid=AfmBOorxYSR6jxu10061AOVS3ogb6axkkks7ojrGO3pv0KqBBT4Q02i1"
        );
     const json = await data.json();
     console.log(json);

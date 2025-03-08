@@ -9,12 +9,12 @@ const Contact = () => {
             </div>
             <div className="flex justify-start items-start lg:py-8 md:py-6 py-4 lg:w-8/12 w-12/12 gap-4 flex-col">
                 <div className="flex lg:py-4 md:py-3 py-2 lg:px-8 md:px-6 px-3 justify-start items-start flex-col bg-white shadow-lg">
-                    <span className="lg:text-base md:text-base text-sm text-gray-900 font-semibold lg:tracking-normal tracking-wide">What is Food Bazaar Customer Care Number?</span>
+                    <span className="lg:text-base md:text-base text-sm text-gray-900 font-semibold lg:tracking-normal tracking-wide">What is Jikoni Customer Care Number?</span>
                     <span className="lg:pt-3 md:pt-2 pt-1 md:text-sm text-xs lg:text-sm text-gray-400 font-normal lg:tracking-wide tracking-wider">We've upgraded our customer support to a chat-based system for swift issue resolution. No more navigating through IVRS complexities. Just search for your issue in the help section, start a chat, and a care executive will assist you shortly.</span>
                 </div>
                 <div className="flex lg:py-4 md:py-3 py-2 lg:px-8 md:px-6 px-3 justify-start items-start flex-col bg-white shadow-lg">
                     <span className="lg:text-base md:text-base text-sm text-gray-900 font-semibold lg:tracking-normal tracking-wide">I did not receive my OTP on SMS</span>
-                    <span className="lg:pt-3 md:pt-2 pt-1 md:text-sm text-xs lg:text-sm text-gray-400 font-normal lg:tracking-wide tracking-wider">If you're not receiving the OTP, it's usually due to a network issue. Please check your mobile network settings and try generating a new OTP. If the problem persists, you might want to restart your device or reach out to us at support@foodbazaar.in for assistance.
+                    <span className="lg:pt-3 md:pt-2 pt-1 md:text-sm text-xs lg:text-sm text-gray-400 font-normal lg:tracking-wide tracking-wider">If you're not receiving the OTP, it's usually due to a network issue. Please check your mobile network settings and try generating a new OTP. If the problem persists, you might want to restart your device or reach out to us at pingmarkloshilu@gmail.com for assistance.
 
 </span>
                 </div>

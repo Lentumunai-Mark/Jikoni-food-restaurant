@@ -14,7 +14,7 @@ const Footer = () => {
           <div className="flex justify-center items-center flex-col gap-2">
             <img className="lg:w-32 w-16 rounded-3xl md:w-28" src={logo}></img>
             <span className="font-extrabold lg:text-lg md:text-lg text-base text-gray-50 tracking-wide">
-              Foody Hub
+              Jikoni Foods
             </span>
             <div className="flex justify-evenly md:gap-4 gap-3 lg:gap-5 items-center flex-row">
               <Link
@@ -70,12 +70,12 @@ const Footer = () => {
         <div className="lg:w-2/12 w-4/12 md:w-2/12 ">
           <span className={titleCss}>We deliver to:</span>
           <ul>
-            <li className={LiCss}>Bangalore</li>
-            <li className={LiCss}>Pune</li>
-            <li className={LiCss}>Gurgaon</li>
-            <li className={LiCss}>Hyderabad</li>
-            <li className={LiCss}>Delhi</li>
-            <li className={LiCss}>Mumbai</li>
+            <li className={LiCss}>Karen</li>
+            <li className={LiCss}>Kilimani</li>
+            <li className={LiCss}>Ngong</li>
+            <li className={LiCss}>Wetslands</li>
+            <li className={LiCss}>Kabete</li>
+            <li className={LiCss}>Eastleigh</li>
           </ul>
         </div>
       </div>
